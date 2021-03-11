@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1554315601 source:c:\users\tst\desktop\repertoire_telephonique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<myconio.h>
+	<windows.h>
+	"structure.h"
+	"fonction_generale.h"
+	"controle_saisie.h"
+	"grafics.h"
+	"maj.h"
+
+1554315601 "
+
+1554317564 c:\users\tst\desktop\repertoire_telephonique\fonction_generale.h
+
+1553704736 c:\users\tst\desktop\repertoire_telephonique\controle_saisie.h
+
+1553457986 c:\users\tst\desktop\repertoire_telephonique\structure.h
+
+1553707311 c:\users\tst\desktop\repertoire_telephonique\grafics.h
+
+1553299991 c:\users\tst\desktop\repertoire_telephonique\majouter.h
+
+1553704815 c:\users\tst\desktop\repertoire_telephonique\maj.h
+
+1554315601 source:/Users/monsieur/Desktop/DEV/Cprg/repertoire_telephonique/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<myconio.h>
+	<windows.h>
+	"structure.h"
+	"fonction_generale.h"
+	"controle_saisie.h"
+	"grafics.h"
+	"maj.h"
+
+1553454386 /Users/monsieur/Desktop/DEV/Cprg/repertoire_telephonique/structure.h
+
+1554317997 /Users/monsieur/Desktop/DEV/Cprg/repertoire_telephonique/fonction_generale.h
+
+1553701136 /Users/monsieur/Desktop/DEV/Cprg/repertoire_telephonique/controle_saisie.h
+
+1553703711 /Users/monsieur/Desktop/DEV/Cprg/repertoire_telephonique/grafics.h
+
+1553701215 /Users/monsieur/Desktop/DEV/Cprg/repertoire_telephonique/maj.h
+
